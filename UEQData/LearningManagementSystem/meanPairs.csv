@@ -1,0 +1,27 @@
+﻿Pairs,Means,Scale
+annoying - enjoyable,0.766666667,Attractiveness
+not understandable - understandable,1.5,Perspicuity
+creative - dull ,0.1,Novelty
+easy to learn - difficult to learn ,0.3,Perspicuity
+valuable - inferior,0,Stimulation
+boring - exciting ,0.833333333,Stimulation
+not interesting - interesting ,1.2,Stimulation
+unpredictable - predictable ,0.5,Dependability
+fast - slow,0.8,Efficiency
+inventive - conventional,0.233333333,Novelty
+obstructive - supportive ,1.333333333,Dependability
+good - bad,1.566666667,Attractiveness
+complicated - easy ,1.3,Perspicuity
+unlikable - pleasing,1.033333333,Attractiveness
+usual - leading edge ,0.666666667,Novelty
+unpleasant - pleasant ,1.133333333,Attractiveness
+secure -  not secure ,0.866666667,Dependability
+motivating - demotivating ,0.933333333,Stimulation
+meets expectations - does not meet expectations ,0.633333333,Dependability
+inefficient - efficient ,1.166666667,Efficiency
+clear - confusing ,0.666666667,Perspicuity
+impractical - practical ,1.266666667,Efficiency
+organized - cluttered,1.233333333,Efficiency
+attractive - unattractive,0.666666667,Attractiveness
+friendly - unfriendly ,0.9,Attractiveness
+conservative - innovative,1.1,Novelty
